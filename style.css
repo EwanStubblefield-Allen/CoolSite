@@ -1,0 +1,76 @@
+/* SECTION Elements Selectors */
+
+body{
+    background-color: #061130;
+    margin: 0;
+}
+
+header, main{
+    color: #F4F6F8;
+    margin-bottom: 20vh;
+}
+
+header {
+    padding: 15px 15px;
+}
+
+
+.main {
+    padding: 0 15vw;
+}
+
+footer {
+    background-color: #F4F6F8;
+    color: #061130;
+    padding: 2em 0;
+}
+
+/* SECTION Class Selectors */
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-buttons {
+    margin: 0 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.chat {
+    background-color: #1C4BC4;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+.main-text {
+    padding-right: 5vw;
+}
+
+.main-services {
+    color: #FAFD61;
+}
+
+.world {
+    width: 42vw;
+    height: fit-content;
+}
+
+.footer-links {
+    color: #1C4BC4;
+    text-decoration: underline;
+    justify-content: space-around;
+    padding: 0 10vw;
+    height: 50%;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+
+.footer-action {
+    text-align: center;
+    height: 50%;
+    align-items: center;
+}
+
+/* SECTION Containers */
